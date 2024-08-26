@@ -1,0 +1,176 @@
+body {
+    background-color: #ececec;
+
+}
+
+.div-t1 {
+    display: flex;
+    margin-top: 70px;
+    background-color: #315165;
+    z-index: 0;
+
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+}
+
+.div-t2 {
+
+position: relative;
+top:-40px;
+left:350px;
+bottom:0px;
+
+    background-color: white;
+    height: 260px;
+    width: 700px;
+    visibility: hidden;
+}
+
+.div-t3 {
+    position: relative;
+    padding-top: 30px;
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+    top: 80px;
+    left: 250px;
+    bottom:0px;
+    flex-flow: column;
+    background-color: white;
+
+
+}
+
+.div-t4 {
+    position: relative;
+    width: 700px;
+    height: 450px;
+    top: 20px;
+    left: 100px;
+    flex-flow: column;
+    background-color: white;
+
+}
+
+.img-t1 {
+    position: relative;
+    width: 700px;
+    height: 450px;
+
+}
+
+.div-t3 h4 {
+    display: inline;
+
+}
+
+.h4-t1 {
+    margin-left: -300px;
+
+}
+
+.h4-t2 {
+    margin-left: -330px;
+
+
+}
+
+span {
+    color: green;
+}
+
+.hh {
+    position: relative;
+    top: -130px;
+    left: 1200px;
+    color: red;
+}
+
+.hr {
+    position: relative;
+    top: -110px;
+    left: 950px;
+    color: white;
+}
+
+
+.button-t1 {
+    position: relative;
+    background-color: #1070a0;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    color: white;
+    border: #1070a0;
+    top: -100px;
+    left: 950px;
+
+
+}
+
+.button-t1:hover {
+    background-color: #434a58;
+    cursor: pointer;
+}
+
+.button-t2 {
+    position: relative;
+    background-color: #1070a0;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    color: white;
+    border: #1070a0;
+    top: 80px;
+    left: 500px;
+
+
+}
+
+.button-t2:hover {
+    background-color: #434a58;
+    cursor: pointer;
+}
+
+.bp {
+    position: relative;
+    top: 70px;
+    left: 300px;
+    font-size: 20px;
+
+}
+
+.hy {
+    position: relative;
+    top: 100px;
+    left: 30px;
+    font-size: 20px;
+}
+
+.hp {
+    position: relative;
+    top: 30px;
+    left: 250px;
+}
+
+.imgh {
+    position: relative;
+    top: 50px;
+    left: 100px;
+    width: 150px;
+    height: 70px;
+    visibility: hidden;
+
+}
+
+.imgs {
+    position: relative;
+    top: 50px;
+    left: 100px;
+    width: 150px;
+    height: 70px;
+    visibility: hidden;
+
+}

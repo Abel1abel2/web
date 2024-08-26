@@ -1,0 +1,23 @@
+.man{
+    margin-top:4000px;
+    background-color: red;
+}
+.pp1 {
+    margin-left: 500px;
+    margin-top: -570px;
+    line-height: 30px;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 150px;
+}
+
+.i1 {
+    width: 400px;
+    height: 400px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    border: 1px;
+    border-radius: 20px;
+    margin-left: 50px;
+
+}

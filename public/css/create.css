@@ -1,0 +1,86 @@
+body {
+    background-color: #315165;
+}
+
+.div-5 {
+    margin-top: 200px;
+
+}
+
+.form-1 {
+    display: flex;
+    flex-flow: column;
+
+}
+
+.label-1 {
+
+    display: flex;
+    background-color: #e9dbcc;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 150px;
+    height: 300px;
+    width: 80%;
+    line-height: 2;
+    border: 1px;
+    border-radius: 15px;
+}
+
+.label-1:hover {
+    background-color: #c3c3c3;
+    cursor: pointer;
+}
+
+.label-1 pre {
+    font-size: 20px;
+
+}
+
+.label-1 input {
+    margin-right: 50px;
+    background-color: #315165;
+    color: white;
+
+
+
+}
+
+.label .button-1 {
+    background-color: #1070a0;
+    border: 1px;
+    border-radius: 5px;
+    padding-top: 10px;
+    color: white;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    margin-left: 1300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.button-1:hover {
+    background-color: #434a58;
+    cursor: pointer;
+}
+
+h1 {
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+
+.p-c1 {
+    color: red;
+    margin-top: 20px;
+    margin-left: 1100px;
+    margin-bottom: 20px;
+
+}
+
+.label-1 .input-3,
+.label-1 .input-4 {
+    background-color: white;
+    color: green;
+}

@@ -1,0 +1,65 @@
+body {
+    background-color: #ececec;
+}
+
+.div-r1 {
+    display: flex;
+    margin-top: 120px;
+    margin-left: 400px;
+    width: 600px;
+    height: 600px;
+    background-color: white;
+
+    border-radius: 10px;
+
+
+
+}
+
+
+
+.label-r1 {
+    padding-top: 55px;
+    margin-left: -100px;
+    flex-flow: column;
+
+
+}
+
+
+
+.button-r1 {
+    background-color: #1070a0;
+    border: 1px;
+    border-radius: 5px;
+    padding-top: 10px;
+
+    color: white;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 30px;
+
+
+}
+
+.button-r1:hover {
+    background-color: #434a58;
+    cursor: pointer;
+}
+
+.hsi {
+    padding-top: 15px;
+   padding-left: 50px;
+position:relative;
+bottom: 19px;
+}
+
+.p-r1 {
+    color: red;
+
+    margin-left: -100px;
+
+
+}
